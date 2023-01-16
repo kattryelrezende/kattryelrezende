@@ -11,6 +11,6 @@ Nothing defines more than creativity and flexibility :smiley:! <br><br>
 
 <hr>
 <h4>
-  You can check my
+  You can check my:
 </h4>
   <a href="https://www.linkedin.com/in/kattryel-rezende/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
