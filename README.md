@@ -1,6 +1,6 @@
 ### Hi, I'm Kattryel Rezende! 😄
 
-![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
+<!-- ![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg) -->
 
 I'm a Software Developer who loves front-end for web pages :sparkling_heart:. <br>
 Nothing defines more than creativity and flexibility :smiley:! <br><br>
@@ -9,15 +9,8 @@ Nothing defines more than creativity and flexibility :smiley:! <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact) 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kattryelrezende&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**kattryelrezende/kattryelrezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h4>
+  You can check my
+</h4>
+  <a href="https://www.linkedin.com/in/kattryel-rezende/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
