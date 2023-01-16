@@ -11,8 +11,10 @@ Nothing defines more than creativity and flexibility :smiley:! <br><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img alt="github stats" width="400px" height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact" />
-<img alt="top languages" height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kattryelrezende&theme=dark&layout=compact&langs_count=8" />
+<div display="flex">
+<img alt="github stats" width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact" />
+<img alt="top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kattryelrezende&theme=dark&layout=compact&langs_count=8" />
+</div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact) 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kattryelrezende&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <hr>
