@@ -1,4 +1,4 @@
-### Hi, I'm Lucas Juan! 😄
+### Hi, I'm Kattryel Rezende! 😄
 
 ![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
 
@@ -11,7 +11,7 @@ if I have a phrase that defines me it is: go ahead and do it :smiley:!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsomm&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**ljsomm/ljsomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kattryelrezende/kattryelrezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
