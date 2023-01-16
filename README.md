@@ -2,13 +2,13 @@
 
 ![235700](https://user-images.githubusercontent.com/48564798/128204419-4160b9ae-fdaf-4fb6-8404-adc638ba3842.jpg)
 
-I'm a Software Developer who loves programming :sparkling_heart:. <br>
-if I have a phrase that defines me it is: go ahead and do it :smiley:!
+I'm a Software Developer who loves front-end for web pages :sparkling_heart:. <br>
+Nothing defines more than creativity and flexibility :smiley:!
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljsomm&show_icons=true&theme=dark&layout=compact) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljsomm&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattryel&show_icons=true&theme=dark&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattryelrezebde&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kattryelrezende/kattryelrezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
