@@ -11,7 +11,7 @@ Nothing defines more than creativity and flexibility :smiley:! <br><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onishi-kohei&theme=onedark&show_icons=ture" />
+<img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact" />
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kattryelrezende&show_icons=true&theme=dark&layout=compact) 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kattryelrezende&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
