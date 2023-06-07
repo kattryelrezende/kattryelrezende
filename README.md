@@ -88,6 +88,6 @@
         <img alt="Most Used Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kattryelrezende&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
     <div tooltip="Snake Animation">
-        <img alt="Snake Animation" src="https://github.com/kattryelrezende/kattryelrezende/main/github-contribution-grid-snake.svg"/>
+        <img alt="Snake Animation" src="https://github.com/kattryelrezende/kattryelrezende/blob/main/github-contribution-grid-snake.svg"/>
     </div>
 </div>
