@@ -4,7 +4,7 @@
 
 <!-- Habilidades -->
 <div align="left">
-    <img align="right" alt="Kattryel" src="https://media.discordapp.net/attachments/829106910640078938/1115870029821521931/kattryel.png">
+    <!-- <img align="right" alt="Kattryel" src="https://media.discordapp.net/attachments/829106910640078938/1115870029821521931/kattryel.png"> -->
     <details open>
         <summary>Principais linguagens</summary>
         <br/>
