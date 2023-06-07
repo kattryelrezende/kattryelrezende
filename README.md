@@ -41,7 +41,7 @@
     <details open>
         <summary>Softwares e ferramentas</summary>
         <br/>
-            <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/figma-%230ac97f.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+            <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/figma-%23026f42.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
         <br/>
     </details>
 </div>
