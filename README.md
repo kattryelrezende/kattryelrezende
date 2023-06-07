@@ -5,7 +5,7 @@
 <!-- Habilidades -->
 <div align="left">
     <img align="right" alt="Kattryel" src="https://media.discordapp.net/attachments/829106910640078938/1115870029821521931/kattryel.png">
-    <details>
+    <details open>
         <summary>Linguagens de programação e marcação</summary>
         <br/>
         <a href="https://github.com/search?&q=user%3Akattryelrezende+language%3Ahtml">
@@ -24,7 +24,7 @@
             </a>
         <br/>
     </details>
-    <details>
+    <details open>
         <summary>Frameworks e bibliotecas</summary>
         <br/>
             <a href="#">
@@ -38,7 +38,7 @@
             </a>
         <br/>
     </details>
-    <details>
+    <details open>
         <summary>Softwares e ferramentas</summary>
         <br/>
             <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/figma-%230ac97f.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
@@ -49,7 +49,7 @@
 <!-- Projetos -->
 <div>
     <h3>Principais projetos</h3>
-    <div align="center"> 
+    <div align="left"> 
         <a href="https://github.com/kattryelrezende/pokedex">
             <img alt="Pokédex" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=kattryelrezende&repo=pokedex&layout=compact&hide_border=true&theme=tokyonight">
         </a>
@@ -58,6 +58,7 @@
         </a>
     </div>
 </div>
+<br>
 
 <!-- Suporte e Links -->
 <div align="center">
