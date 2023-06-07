@@ -69,7 +69,7 @@
 
 <!-- CONTACT WITH ME -->
 <div align="left">
-    <div align="center">
+    <div align="left">
         <a href="https://linkedin.com/in/kattryel-rezende" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-svg?style=for-the-badge&logo=linkedin&color=blue">
         </a>
