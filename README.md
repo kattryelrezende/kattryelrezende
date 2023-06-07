@@ -48,7 +48,7 @@
 
 <!-- Projetos -->
 <div>
-    <h3>Principais projetos</h3>
+    <h3>Projetos em destaque</h3>
     <div align="left"> 
         <a href="https://github.com/kattryelrezende/pokedex">
             <img alt="Pokédex" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=kattryelrezende&repo=pokedex&layout=compact&hide_border=true&theme=tokyonight">
