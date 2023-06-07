@@ -6,9 +6,9 @@
 <div align="left">
     <img align="right" alt="Kattryel" src="https://media.discordapp.net/attachments/829106910640078938/1115870029821521931/kattryel.png">
     <details open>
-        <summary>Linguagens de programação e marcação</summary>
+        <summary>Principais linguagens</summary>
         <br/>
-        <a href="https://github.com/search?&q=user%3Akattryelrezende+language%3Ahtml">
+            <a href="https://github.com/search?&q=user%3Akattryelrezende+language%3Ahtml">
                 <img alt="HTML" src="https://img.shields.io/badge/-HTML-svg?style=for-the-badge&logo=html5&logoColor=white&color=red">
             </a>
             <a href="https://github.com/search?&q=user%3Akattryelrezende+language%3Acss">
