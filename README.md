@@ -61,7 +61,7 @@
 <br>
 
 <!-- Suporte e Links -->
-<div align="center">
+<div align="left">
     <a href="https://ko-fi.com/kattryel" target="_blank">
         <img alt="Buy Me A Coffee" style="height:60px!important;width:217px!important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png">
     </a>
@@ -76,8 +76,6 @@
         <a href="mailto:kattryelrezende@gmail.com" target="_blank">
             <img alt="E-mail de Contato" src="https://img.shields.io/badge/-Gmail-svg?style=for-the-badge&logo=gmail&logoColor=white&color=red">
         </a>
-    </div>
-    <div>
     </div>
 </div>
 <br>
